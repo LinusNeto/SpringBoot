@@ -2,6 +2,8 @@
 -- DROP DATABASE minhasfinancas;
 -- script de criação das tabelas do banco de dados
 
+DROP CASCADE financas.usuario
+
 CREATE DATABASE minhasfinancas;
 
 CREATE SCHEMA financas;
